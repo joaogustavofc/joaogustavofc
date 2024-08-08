@@ -1,16 +1,22 @@
-## Hi there 👋
+# Sobre mim 
 
-<!--
-**joaogustavofc/joaogustavofc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá, sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por programação e análise de dados. Sempre em busca de novos desafios e oportunidades para aplicar e expandir meus conhecimentos. Estou explorando diferentes linguagens de programação e frameworks, com foco em desenvolver soluções eficientes e inovadoras!
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Habilidades
+- **Linguagens:** Python, JavaScript, SQL, Node.JS, PHP, TypeScript
+- **Frameworks:** React, Express, mysql2, Tailwind CSS
+- **Banco de Dados:** MongoDB e MySQL
+
+## 🌱 Em aprendizado contínuo
+- Análise de Dados
+- Desenvolvimento Web
+- Automação
+
+## 📫 Entre em contato comigo!
+- [Meu LinkedIn](https://www.linkedin.com/in/joaogustavoo/)
+- **Email:** jotagee3006@gmail.com
+
+---
+
+*Obrigado por visitar meu perfil!*
